@@ -1,0 +1,92 @@
+/* Profile Container */
+.profile-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Profile Heading */
+.profile-container h1 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+/* Error and Success Messages */
+.error {
+  color: #ff0000;
+  background-color: #ffe6e6;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.success {
+  color: #28a745;
+  background-color: #e6ffe6;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+/* Forms */
+.profile-container form {
+  margin-bottom: 30px;
+  text-align: left;
+}
+
+.profile-container form h2 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+  color: #555;
+}
+
+.profile-container input {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 1rem;
+}
+
+.profile-container input:focus {
+  border-color: #007bff;
+  outline: none;
+}
+
+/* Buttons */
+.profile-container button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1rem;
+  margin-top: 10px;
+}
+
+.profile-container button:hover {
+  background-color: #0056b3;
+}
+
+/* Resend Verification Section */
+.resend-verification {
+  margin-top: 20px;
+}
+
+.resend-verification button {
+  padding: 10px 20px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.resend-verification button:hover {
+  background-color: #218838;
+}

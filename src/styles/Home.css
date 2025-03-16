@@ -1,0 +1,15 @@
+.home-container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .search-bar {
+    margin-top: 20px;
+  }
+  
+  .search-bar input {
+    padding: 10px;
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }

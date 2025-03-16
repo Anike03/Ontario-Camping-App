@@ -1,0 +1,16 @@
+.resend-verification {
+    margin-top: 20px;
+  }
+  
+  .resend-verification button {
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .resend-verification button:hover {
+    background-color: #218838;
+  }
